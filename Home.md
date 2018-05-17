@@ -1,6 +1,6 @@
 Welcome to the sprints wiki!
 
-## Usefull shortcuts to specific issues
+## Useful shortcuts to specific issues
 
 * [All Epics](https://github.com/mdn/sprints/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3AEpic)
 * [Epic Needing User Stories](https://github.com/mdn/sprints/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3AEpicNeedsUS)
