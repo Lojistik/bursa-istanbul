@@ -1,9 +1,9 @@
 Welcome to the sprints wiki!
 
-## Current Sprint (Sprint 3 Q2 2018)
-* [Sprint Board](https://github.com/mdn/sprints#boards?milestones=Sprint%203%20Q2%202018%232018-05-29&repos=121649843,55001853,70901646,90252175,1352520,3311772,82040629,121278372,33677290,132630865) (requires [[ZenHub|ZenHub]])
+## Current Sprint (Sprint 4 Q2 2018)
+* [Sprint Board](https://github.com/mdn/sprints/wiki/Home/_edit#boards?milestones=Sprint%204%20Q2%202018%232018-06-26&repos=121649843,55001853,70901646,134759439,90252175,1352520,3311772,82040629,121278372,33677290,132630865) (requires [[ZenHub|ZenHub]])
 * Per-repo milestones:
-  - https://github.com/mdn/sprints/milestone/1
+  - https://github.com/mdn/sprints/milestone/2
 
 ## Useful shortcuts to specific issues
 
